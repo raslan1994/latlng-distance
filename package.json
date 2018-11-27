@@ -1,6 +1,6 @@
 {
   "name": "latlng-distance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "latlng-distance",
   "main": "index.js",
   "scripts": {
