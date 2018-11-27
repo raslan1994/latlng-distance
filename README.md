@@ -12,7 +12,7 @@ npm install latlng-distance
 ```
 
 ## Usage
-```
+```javascript
 let  latlngDist  =  require('latlng-distance');
 
 /**
